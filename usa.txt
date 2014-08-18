@@ -1,0 +1,1195 @@
+AL,Anniston,33.58,85.85
+AL,Auburn,32.67,85.44
+AL,Birmingham,33.57,86.75
+AL,Centreville,32.90,87.25
+AL,Dothan,31.32,85.45
+AL,Fort Rucker,31.28,85.72
+AL,Gadsden,33.97,86.09
+AL,Huntsville,34.65,86.77
+AL,Maxwell AFB,32.38,86.37
+AL,Mobile,30.68,88.25
+AL,Mobile Aeros,30.63,88.07
+AL,Montgomery,32.30,86.40
+AL,Muscle Shoals,34.75,87.62
+AL,Selma,32.34,86.99
+AL,Troy,31.87,86.02
+AL,Tuscaloosa,33.23,87.62
+AK,Adak,51.88,176.65
+AK,Ambler,67.10,157.85
+AK,Anchorage,61.17,150.02
+AK,Anchorage,61.22,149.85
+AK,Angoon,57.83,134.97
+AK,Aniak,61.58,159.53
+AK,Annette Isl,55.03,131.57
+AK,Attu,53.50,173.30
+AK,Barrow,71.30,156.78
+AK,Barter Island,70.13,143.63
+AK,Bethel,60.78,161.80
+AK,Bettles,66.92,151.52
+AK,Big Delta,64.00,145.73
+AK,Big River Lake,60.82,152.30
+AK,Cantwell,63.38,148.95
+AK,Cape Decis,56.00,134.22
+AK,Cape Hinchinbrook,60.38,147.08
+AK,Cape Spence,58.33,137.05
+AK,Cape St Eli,60.33,145.00
+AK,Chandalar Lake,67.50,148.48
+AK,Chulitna,62.88,149.83
+AK,Circle City,65.83,144.07
+AK,Cold Bay,55.20,162.72
+AK,Cordova,60.50,145.50
+AK,Craig,55.80,133.25
+AK,Deadhorse,70.20,148.47
+AK,Dillingham,59.05,158.52
+AK,Duffys Tavern,62.73,143.92
+AK,Dutch Harbor,53.88,166.53
+AK,Eagle Arpt,64.77,141.15
+AK,Eldred Rock,59.62,135.37
+AK,Elfin Cove,58.20,136.35
+AK,Fairbanks,64.82,147.87
+AK,Farewell,62.85,154.47
+AK,Five Finger,57.45,134.03
+AK,Five Mile,65.93,149.83
+AK,Fort Yukon,66.57,145.27
+AK,Funter Bay,58.25,134.90
+AK,Galbraith Lake,68.48,149.48
+AK,Gambell,63.77,171.73
+AK,Gulkana Arpt,62.15,145.45
+AK,Gustavus,58.42,135.73
+AK,Haines Hrbor,59.23,135.43
+AK,Hayes River,61.98,152.08
+AK,Healy River,63.83,149.00
+AK,Homer,59.63,151.50
+AK,Hoonah Seapl,58.10,135.45
+AK,Iliamna Arpt,59.75,154.92
+AK,Juneau,58.37,134.58
+AK,Kake Seaplan,56.97,133.95
+AK,Kenai,60.57,151.25
+AK,Ketchikan,55.35,131.70
+AK,King Salmon,58.68,156.65
+AK,Kodiak,57.75,152.50
+AK,Kotzebue,66.87,162.63
+AK,Lazy Mtn,61.63,149.03
+AK,Lonely (dew),70.92,153.23
+AK,Manley Ht Sp,65.00,150.65
+AK,Mccarthy,61.43,142.92
+AK,Mcgrath,62.97,155.62
+AK,Mekoryuk,60.37,166.27
+AK,Middleton Island,59.43,146.33
+AK,Minchumina,63.90,152.27
+AK,Nenana,64.55,149.08
+AK,New Andreafs,62.07,163.30
+AK,Nikolski,53.58,169.42
+AK,Nome,64.50,165.43
+AK,Northway,62.97,141.93
+AK,Oliktok Dew,70.50,149.88
+AK,Palmer,61.60,149.08
+AK,Paxson,63.03,145.50
+AK,Petersburg,56.82,132.97
+AK,Point Lay,69.82,162.92
+AK,Port Alexndr,56.25,134.65
+AK,Port Clarnce,65.25,166.87
+AK,Port Heiden,56.95,158.62
+AK,Prospect Crk,66.82,150.65
+AK,Prudhoe Bay,70.25,148.33
+AK,Pt Alsworth,60.20,154.30
+AK,Puntilla,62.17,153.25
+AK,Sand Point,55.33,160.50
+AK,Seward,60.18,149.75
+AK,Shemy,53.20,174.13
+AK,Shishmaref,66.27,166.03
+AK,Sitka,57.07,135.35
+AK,Sitkinak,56.88,154.20
+AK,Skagway,59.75,135.53
+AK,Skwentna,61.97,151.20
+AK,Snowshoe Lake,62.03,146.67
+AK,St Paul Island,57.15,170.22
+AK,Tahneta Pass,61.90,147.30
+AK,Talkeetna,62.30,150.10
+AK,Tanana,65.17,152.10
+AK,Umiat,69.37,152.13
+AK,Unalakleet,63.88,160.80
+AK,Valdez,61.13,146.35
+AK,Valdez 2,61.13,146.25
+AK,Wainwright,70.62,159.85
+AK,Wales,66.03,168.08
+AK,Whittier,60.78,148.72
+AK,Willow Arpt,61.75,150.05
+AK,Wrangell,56.48,132.37
+AK,Yakutat,59.52,139.67
+AZ,Davis-M AFB,32.17,110.88
+AZ,Deer Valley,33.68,112.08
+AZ,Douglas,31.45,109.60
+AZ,Falcon Fld,33.47,111.73
+AZ,Flagstaff,35.13,111.67
+AZ,Fort Huachuc,31.60,110.35
+AZ,Gila Bend,33.55,113.17
+AZ,Goodyear,33.42,112.38
+AZ,Grand Canyon,35.95,112.15
+AZ,Kingman,35.27,113.95
+AZ,Luke,33.53,112.38
+AZ,Page,36.93,111.45
+AZ,Payson,34.23,111.33
+AZ,Phoenix,33.43,112.02
+AZ,Prescott,34.65,112.43
+AZ,Safford Awrs,32.82,109.68
+AZ,Scottsdale,33.62,111.92
+AZ,Show Low,34.27,110.00
+AZ,Show Low,34.27,110.00
+AZ,Tucson,32.12,110.93
+AZ,Williams AFB,33.30,111.67
+AZ,Winslow,35.02,110.73
+AZ,Yuma,33.10,115.00
+AZ,Yuma Mcas,32.65,114.62
+AZ,Yuma Prv Gd,32.85,114.40
+AR,Blytheville,35.97,89.95
+AR,Camden,33.52,92.40
+AR,El Dorado,33.22,92.80
+AR,Fayetteville,36.00,94.17
+AR,Ft Smith,35.33,94.37
+AR,Harrison,36.27,93.15
+AR,Hot Springs,34.48,93.10
+AR,Jonesboro,35.83,90.65
+AR,Little Rock,35.22,92.38
+AR,Little Rock,34.92,92.15
+AR,Little Rock,34.83,92.25
+AR,Pine Bluff,34.17,91.93
+AR,Springdale,36.18,94.13
+AR,Texarkana,33.45,94.00
+AR,Walnut Ridge,36.13,90.93
+CA,Alameda NAS,37.78,122.32
+CA,Alturas,41.48,120.53
+CA,Arcata,40.98,124.10
+CA,Bakersfield,35.43,119.05
+CA,Beale AFB,39.13,121.45
+CA,Beaumont,33.93,116.95
+CA,Bicycle Lake,35.28,116.62
+CA,Big Bear Apt,34.27,116.68
+CA,Bishop,37.60,118.60
+CA,Blue Canyon,39.28,120.70
+CA,Blythe,33.62,114.72
+CA,Burbank,34.20,118.37
+CA,Camp Pendlet,33.30,117.35
+CA,Campo,32.62,116.47
+CA,Carlsbad,33.13,117.28
+CA,Castle AFB,37.38,120.57
+CA,Chico,39.78,121.85
+CA,China Lake,35.68,117.68
+CA,Chino,33.97,117.63
+CA,Concord,37.98,122.05
+CA,Crescent Cty,41.78,124.23
+CA,Daggett,34.87,116.78
+CA,Edwards AFB,34.90,117.88
+CA,El Centro,32.82,115.68
+CA,El Monte,34.08,118.03
+CA,El Toro,33.67,117.73
+CA,Eureka,41.33,124.28
+CA,Fort Hunter,36.00,121.32
+CA,Fort Ord,36.68,121.77
+CA,Fresno,36.77,119.72
+CA,Fullerton,33.87,117.97
+CA,George AFB,34.58,117.38
+CA,Hawthorne,33.92,118.33
+CA,Hayward,37.65,122.12
+CA,Imperial,32.83,115.57
+CA,Imperial Bch,32.57,117.12
+CA,La Verne,34.10,117.78
+CA,Lake Tahoe,38.90,120.00
+CA,Lancaster,34.73,118.22
+CA,Lemoore NAS,36.33,119.95
+CA,Livermore,37.70,121.82
+CA,Long Beach,33.82,118.15
+CA,Los Alamitos,33.78,118.05
+CA,Los Angeles,33.93,118.40
+CA,Mammoth Lakes,37.63,118.92
+CA,March AFB,33.88,117.27
+CA,Marysville,39.10,121.57
+CA,Mather AFB,38.57,121.30
+CA,Mcclellan,38.67,121.40
+CA,Merced,37.28,120.52
+CA,Miramar NAS,32.87,117.15
+CA,Modesto,37.63,120.95
+CA,Moffet NAS,37.42,122.05
+CA,Mojave,35.05,118.15
+CA,Montague,41.73,122.53
+CA,Monterey,36.58,121.85
+CA,Mount Shasta,41.32,122.32
+CA,Mount Wilson,34.23,118.07
+CA,Napa,38.22,122.28
+CA,Needles,34.77,114.62
+CA,North Island,32.70,117.20
+CA,Norton AFB,34.10,117.23
+CA,Oakland,37.73,122.22
+CA,Ontario Intl,34.05,117.62
+CA,Oxnard,34.20,119.20
+CA,Palm Springs,33.83,116.50
+CA,Palmdale,35.05,118.13
+CA,Palo Alto,37.47,122.12
+CA,Paso Robles,35.67,120.63
+CA,Pillaro Pt,37.83,122.83
+CA,Point Mugu,34.12,119.12
+CA,Pt Arena,39.58,124.22
+CA,Pt Arguello,34.95,121.12
+CA,Pt Piedras,35.67,121.28
+CA,Pt Piedras,36.12,121.47
+CA,Red Bluff,40.15,122.25
+CA,Redding,40.50,122.30
+CA,Riverside,33.95,117.45
+CA,Sacramento,38.52,121.50
+CA,Sacramento,38.70,121.60
+CA,Salinas,36.67,121.60
+CA,San Carlos,37.52,122.25
+CA,San Clemente,33.42,117.62
+CA,San Clemente,33.02,118.58
+CA,San Diego,32.82,117.13
+CA,San Diego,32.73,117.17
+CA,San Diego,32.57,116.98
+CA,San Diego,32.57,116.98
+CA,San Diego,32.82,116.97
+CA,San Francisco,37.75,122.68
+CA,San Francisco,37.62,122.38
+CA,San Jose,37.37,121.92
+CA,San Jose/Rei,37.33,121.82
+CA,San Luis Obi,35.23,120.65
+CA,San Mateo,33.38,117.58
+CA,San Miguel,34.03,120.40
+CA,San Nic Island,33.25,119.45
+CA,Sandburg,34.75,118.73
+CA,Santa Ana,33.67,117.88
+CA,Santa Barb,34.43,119.83
+CA,Santa Maria,34.90,120.45
+CA,Santa Monica,34.02,118.45
+CA,Santa Rosa,38.52,122.82
+CA,Shelter Cove,40.03,124.07
+CA,Siskiyou,41.78,122.47
+CA,Stockton,37.90,121.25
+CA,Superior Val,35.33,117.10
+CA,Susanville,40.63,120.95
+CA,Thermal,33.63,116.17
+CA,Torrance,33.80,118.33
+CA,Travis AFB,38.27,121.93
+CA,Truckee-Tahoe,39.32,120.13
+CA,Tustin Mcas,33.70,117.83
+Palm,Twenty9,34.28,116.15
+CA,Ukiah,39.13,123.20
+CA,Van Nuys,34.22,118.48
+CA,Vandenberg,35.20,120.95
+CA,Vandenberg,35.20,120.95
+CA,Visalia,36.32,119.40
+CO,Air Force A,39.52,105.35
+CO,Akron,40.17,103.22
+CO,Alamosa,37.45,105.87
+CO,Aspen,39.22,106.87
+CO,Brmfield/Jef,39.90,105.12
+CO,Buckley,39.72,104.75
+CO,Colo Sprgs,38.82,104.72
+CO,Cortez,37.30,108.63
+CO,Craig-Moffat,40.50,107.53
+CO,Denver,39.75,104.87
+CO,Durango,37.15,107.75
+CO,Eagle,39.65,106.92
+CO,Englewood,39.57,104.83
+CO,Fort Carson,38.68,104.77
+CO,Fraser,39.57,105.50
+CO,Ft Col/Lovel,40.45,105.02
+CO,Ft Collins,40.58,105.08
+CO,Grand Jct,39.12,108.53
+CO,Greeley-Wld,40.43,104.63
+CO,Gunnison,38.55,106.93
+CO,Gunnison,38.55,106.92
+CO,La Junta,38.05,103.52
+CO,Lamar,38.12,102.60
+CO,Leadville,39.25,106.30
+CO,Limon,39.18,103.70
+CO,Montrose,38.50,107.88
+CO,Montrose,38.50,107.88
+CO,Pueblo,38.28,104.52
+CO,Rifle,39.53,107.80
+CO,Salida,38.53,106.05
+CO,Steamboat Sp,40.48,106.82
+CO,Trinidad,37.25,104.33
+CO,Winter Park,40.00,105.87
+CT,Bridgeport,41.17,73.13
+CT,Danbury,41.37,73.48
+CT,Groton,41.33,72.05
+CT,Hartford,41.73,72.65
+CT,New Haven,41.22,72.67
+CT,New Haven,41.27,72.88
+CT,New Haven,41.27,72.90
+CT,New London,41.30,72.08
+CT,Windsor Loc,41.93,72.68
+DE,Dover,39.13,75.47
+DE,Wilmington,39.67,75.60
+DC,Washington,38.95,77.46
+DC,Washington/Natl,38.85,77.04
+FL,Apalachicola,29.73,85.03
+FL,Astor NAS,29.12,81.57
+FL,Avon Park G,28.08,81.55
+FL,Cape Canaveral,28.47,80.55
+FL,Cecil,30.22,81.88
+FL,Crestview,30.78,86.52
+FL,Cross City,29.62,83.10
+FL,Daytona Bch,29.18,81.05
+FL,Duke Fld,30.65,86.52
+FL,Eglin AFB,30.48,86.53
+FL,Egmont Key,27.60,82.77
+FL,Fort Lauderd,26.13,80.13
+FL,Fort Myers,26.58,81.87
+FL,Ft Lauderdale,26.07,80.15
+FL,Ft Myers,26.65,81.87
+FL,Gainesville,29.68,82.27
+FL,Homestead,25.48,80.38
+FL,Hurlburt Fld,30.43,86.68
+FL,Jacksonville FL,30.33,81.52
+FL,Key West,24.55,81.75
+FL,Key West NAS,24.57,81.68
+FL,Lakeland,28.03,81.95
+FL,Macdill AFB,27.85,82.52
+FL,Marianna,30.84,85.18
+FL,Mayport NAS,30.40,81.42
+FL,Melbourne,28.10,80.63
+FL,Miami,25.82,80.28
+FL,Naples,26.13,81.80
+FL,Nasa Shuttle,28.62,80.68
+FL,Orlando,28.43,81.32
+FL,Panama City,30.20,85.68
+FL,Patrick AFB,28.23,80.60
+FL,Pensacola,30.35,87.32
+FL,Ruskin,27.97,82.60
+FL,Saint Peters,27.92,82.68
+FL,Sanford,28.78,81.25
+FL,Sarasota,27.40,82.55
+FL,Tallahassee,30.38,84.37
+FL,Tampa,27.97,82.53
+FL,Titusville,28.52,80.80
+FL,Tyndall AFB,30.07,85.58
+FL,Vero Beach,27.65,80.42
+FL,W Palm Beach,26.68,80.12
+FL,Whiting Fld,30.72,87.02
+GA,Albany GA,31.53,84.18
+GA,Alma,31.53,82.52
+GA,Athens,33.95,83.32
+GA,Atlanta,33.65,84.42
+GA,Atlanta,33.65,84.42
+GA,Atlanta/Dklb,33.88,84.30
+GA,Atlanta/Fltn,33.78,84.52
+GA,Augusta/Bush,33.37,81.97
+GA,Brunswick,31.15,81.38
+GA,Columbus,32.52,84.93
+GA,Dobbins AFB,33.92,84.52
+GA,Dobbins AFB,34.53,84.87
+GA,Fort Benning,32.33,85.00
+GA,Ft Stewart,31.88,81.57
+GA,Hunter Aaf,32.02,81.15
+GA,La Grange,33.01,85.07
+GA,Macon/Lewis,32.70,83.65
+GA,Moody AFB,30.97,83.20
+GA,Robins AFB,32.63,83.60
+GA,Rome/Russell,34.35,85.17
+GA,Savannah Mun,32.13,81.20
+GA,Valdosta,30.78,83.28
+GA,Waycross,31.25,82.40
+HI,Barbers Pt,21.53,158.12
+HI,Barbers Pt,21.53,158.12
+HI,Barking San,22.05,160.30
+HI,Fr Frigate,24.45,166.47
+HI,Hilo,19.72,155.07
+HI,Honolulu Int,21.35,157.93
+HI,Kahului Maui,20.90,156.43
+HI,Kaneohe Mca,21.75,158.28
+HI,Kaneohe Mca,21.75,158.28
+HI,Ke-Ahole/Kon,19.75,156.05
+HI,Kilauea Pt,22.38,159.67
+HI,Lanai-Lanai,20.80,156.95
+HI,Lihue-Kauai,21.98,159.35
+HI,Maui,20.97,156.83
+HI,Molokai,21.15,157.10
+HI,Upolo Pt Ln,20.42,156.47
+HI,Waimea-Koha,20.00,156.12
+ID,Boise,43.57,116.22
+ID,Burley,42.53,113.77
+ID,Challis,44.52,114.22
+ID,Coeur d'Alene,47.77,116.82
+ID,Elk City,45.82,115.43
+ID,Gooding,43.00,115.17
+ID,Grangeville,45.92,116.13
+ID,Idaho Falls,43.52,112.07
+ID,Lewiston,46.38,117.02
+ID,Malad City,42.17,112.32
+ID,Malta,42.30,113.37
+ID,Mccall,44.88,116.10
+ID,Mountn Home,43.05,115.87
+ID,Mullan,47.47,115.80
+ID,Pocatello,42.92,112.60
+ID,Salmon,45.18,113.90
+ID,Salmon,45.17,114.47
+ID,Soda Springs,42.65,111.58
+ID,Sun Valley,43.50,114.30
+ID,Twin Falls,42.48,114.48
+IL,Alton,38.88,90.05
+IL,Aurora,41.77,88.32
+IL,Bistate Park,38.57,90.15
+IL,Bloomington,40.48,88.93
+IL,Bradford,41.16,89.60
+IL,Cairo,37.07,89.22
+IL,Carbondale,37.78,89.25
+IL,Centralia,38.51,89.09
+IL,Champaign/Urbana,40.03,88.28
+IL,Chicago,41.90,87.65
+IL,Chicago/Meigs,41.87,87.62
+IL,Chicago/Midway,41.78,87.75
+IL,Chicago/O'hare,41.98,87.90
+IL,Danville,40.20,87.60
+IL,DeKalb,41.93,88.72
+IL,Decatur,39.83,88.87
+IL,Du Page,41.92,88.25
+IL,Galesburg,40.93,90.43
+IL,Glenview NAS,42.08,87.82
+IL,Kankakee,41.07,87.85
+IL,Macomb,40.52,90.66
+IL,Marion,37.75,89.00
+IL,Marseilles,41.37,88.68
+IL,Mattoon,39.48,88.28
+IL,Moline/Quad,41.45,90.52
+IL,Mount Vernon,38.32,88.86
+IL,Peoria,40.67,89.68
+IL,Quincy,39.93,91.20
+IL,Rockford,42.20,89.10
+IL,Salem,38.63,88.96
+IL,Scott AFB,38.55,89.85
+IL,Springfield,39.85,89.67
+IL,Sterling,41.74,89.67
+IL,Taylorville,39.53,89.33
+IL,Vandalia,38.99,89.17
+IN,Bakalar Af,39.38,86.50
+IN,Bloomington,39.13,86.62
+IN,Elkhart,41.72,86.00
+IN,Evansville,38.05,87.53
+IN,Fort Wayne,41.00,85.20
+IN,Gary,41.62,87.42
+IN,Grissom AFB,40.65,86.15
+IN,Indianapolis,39.73,86.27
+IN,Muncie,40.23,85.38
+IN,South Bend,41.70,86.32
+IN,Terre Haute,39.45,87.30
+IN,W Lafayette,40.42,86.93
+IA,Burlington,40.78,91.12
+IA,Cedar Rapids,41.88,91.70
+IA,Des Moines,41.53,93.65
+IA,Dubuque,42.40,90.70
+IA,Estherville,43.40,94.75
+IA,Fort Dodge,42.55,94.18
+IA,Lamoni,40.62,93.93
+IA,Mason City,43.15,93.33
+IA,Ottumwa,41.10,92.45
+IA,Sioux City,42.40,96.38
+IA,Spencer,43.17,95.15
+IA,Waterloo Mun,42.55,92.40
+KS,Chanute,37.67,95.48
+KS,Col. J Jabar,37.75,97.22
+KS,Concordia,39.55,97.65
+KS,Dodge City,37.77,99.97
+KS,Elkhart,37.00,101.88
+KS,Emporia,38.33,96.20
+KS,Ft Leavnwrth,39.37,94.92
+KS,Ft Riley,39.05,96.77
+KS,Garden City,37.93,100.72
+KS,Goodland,39.37,101.70
+KS,Hays,38.85,99.27
+KS,Hill City,39.38,99.83
+KS,Hutchinson,38.07,97.87
+KS,Johnson Cnty,38.82,94.88
+KS,Liberal,37.05,100.97
+KS,Manhatten,39.15,96.67
+KS,Mcconnell Af,37.62,97.27
+KS,Medicine Ldg,37.30,98.58
+KS,Olathe,38.85,94.90
+KS,Russell,38.87,98.82
+KS,Salina,38.80,97.65
+KS,Topeka,39.07,95.62
+KS,Topeka/Forbe,38.95,95.67
+KS,Wichita,37.65,97.43
+KY,Bowling Gren,36.97,86.43
+KY,Ft Campbell,36.67,87.50
+KY,Ft Knox,37.90,85.97
+KY,Jackson,37.60,83.32
+KY,Lexington,38.05,85.00
+KY,London,37.08,84.07
+KY,Louisville,38.23,85.67
+KY,Louisville,38.18,85.73
+KY,Owensboro,37.75,87.17
+KY,Paducah,37.07,88.77
+KY,Pikeville,37.48,82.52
+LA,Alexandria,31.38,92.30
+LA,Barksdale,32.50,93.67
+LA,Baton Rouge,30.53,91.15
+LA,Boothville,29.55,89.67
+LA,Cameron Heli,29.78,93.30
+LA,Claiborne R,31.22,92.95
+LA,England AFB,31.33,92.55
+LA,Eugene Island,28.47,91.78
+LA,Fort Polk,31.05,93.20
+LA,Grand Isle,29.18,90.07
+LA,High Island,28.22,93.75
+LA,Houma,29.57,90.65
+LA,Intercoastal,29.73,92.12
+LA,Lafayette,30.20,92.00
+LA,Lake Charles,30.12,93.22
+LA,Lake Palourde,29.70,91.10
+LA,Missippi Can,28.78,89.05
+LA,Monroe,32.52,92.05
+LA,Morgan City,29.70,91.20
+LA,New Iberia,30.03,91.88
+LA,New Orleans,29.98,90.25
+LA,New Orleans,29.83,90.02
+LA,New Orleans,30.03,90.03
+LA,S Marsh Island,28.30,91.98
+LA,Shreveport,32.52,93.75
+LA,Slidel,30.35,89.82
+ME,Augusta,44.32,69.80
+ME,Bangor,44.80,68.82
+ME,Bar Harbor,44.45,68.37
+ME,Brunswick,43.88,69.93
+ME,Caribou Mun,46.87,68.02
+ME,Greenville,45.45,69.55
+ME,Greenville,45.78,69.63
+ME,Houlton,46.13,67.78
+ME,Loring AFB,46.95,67.88
+ME,Portland,43.65,70.32
+ME,Presque Isle,46.68,68.05
+ME,Rockland,44.07,69.12
+ME,Rumford,44.88,70.88
+MD,Andrews AFB,38.82,76.87
+MD,Baltimore,39.18,76.67
+MD,Baltimore,39.18,76.67
+MD,Baltimore,39.33,76.42
+MD,Fort Meade,39.08,76.77
+MD,Hagerstown,39.70,77.72
+MD,Ocean City,38.55,75.13
+MD,Patuxent,38.28,76.40
+MD,Phillips,39.47,76.17
+MD,Salisbury,38.33,75.50
+MA,Bedford,42.47,71.28
+MA,Beverly,42.58,70.92
+MA,Boston,42.37,71.03
+MA,Cape Cod Can,41.78,70.50
+MA,Chatham,41.67,69.97
+MA,Fort Devens,42.57,71.60
+MA,Hyannis,41.67,70.28
+MA,Lawrence,42.72,71.12
+MA,Marthas Vine,41.40,70.62
+MA,Nantucket,41.25,70.07
+MA,New Bedford,41.68,70.97
+MA,Norwood,42.18,71.18
+MA,Otis ANGB,41.65,70.52
+MA,Pittsfield,42.26,73.18
+MA,S Weymouth,42.15,70.93
+MA,Westfield,42.17,72.72
+MA,Westover,42.20,72.53
+MA,Worcester,42.27,71.87
+MI,Alpena,45.07,83.57
+MI,Ann Arbor,42.22,83.75
+MI,Battle Creek,42.30,85.23
+MI,Benton Harbor,42.13,86.43
+MI,Chippewa,46.25,84.47
+MI,Coopersville,43.07,85.95
+MI,Copper Harb,47.47,87.85
+MI,Detroit,42.42,83.02
+MI,Detroit,42.23,83.33
+MI,Escanaba,45.73,87.08
+MI,Flint/Bishop,42.97,83.75
+MI,Grand Rapids,42.88,85.52
+MI,Hancock,47.17,88.50
+MI,Harbor Beach,43.83,82.53
+MI,Houghton Lake,44.37,84.68
+MI,Iron Mtn,45.82,88.12
+MI,Ironwood,46.53,90.13
+MI,Jackson,42.27,84.47
+MI,Kalamazoo,42.23,85.55
+MI,Lansing,42.77,84.60
+MI,Manistee,44.27,86.25
+MI,Marquette,46.88,87.95
+MI,Menominee,45.12,87.63
+MI,Muskegon,43.17,86.25
+MI,Pellston,45.57,84.80
+MI,Pontiac,42.67,83.42
+MI,Saginaw,43.53,84.08
+MI,Sault Ste M,46.47,84.37
+MI,Sawyer AFB,46.35,87.40
+MI,Selfridge,42.62,82.83
+MI,Seul Choix,45.92,85.92
+MI,Traverse Cty,44.73,85.58
+MI,Wurtsmith,44.45,83.40
+MI,Ypsilanti,42.23,83.53
+MN,Albert Lea,43.68,93.37
+MN,Alexandria,45.87,95.38
+MN,Bemidji Muni,47.50,94.93
+MN,Brainerd-Crw,46.40,94.13
+MN,Detroit Laks,46.82,95.88
+MN,Duluth,46.83,92.18
+MN,Ely,47.90,91.82
+MN,Fairmont,43.65,94.42
+MN,Fergus Falls,46.30,96.07
+MN,Grand Rapids,47.22,93.52
+MN,Hibbing,47.38,92.85
+MN,Intl Falls,48.57,93.38
+MN,Litchfield,45.13,94.52
+MN,Mankato,44.22,93.92
+MN,Marshall Arpt,44.45,95.82
+MN,Minneapolis,44.83,93.47
+MN,Minneapolis,45.07,93.38
+MN,Minneapolis,44.88,93.22
+MN,Park Rapids,46.90,95.07
+MN,Pequot Lake,46.60,94.32
+MN,Redwood Falls,44.55,95.08
+MN,Rochester,43.92,92.50
+MN,Saint Paul,44.93,93.05
+MN,St Cloud,45.55,94.07
+MN,Thief River,48.07,96.18
+MN,Tofte,47.58,90.83
+MN,Warroad,48.93,95.35
+MN,Worthington,43.65,95.58
+MS,Columbus AFB,33.65,88.45
+MS,Golden Trian,33.45,88.58
+MS,Greenville,33.48,90.98
+MS,Greenwood,33.50,90.08
+MS,Gulfport,30.40,89.07
+MS,Hattiesburg,31.47,89.33
+MS,Jackson,32.32,90.08
+MS,Keesler AFB,30.42,88.92
+MS,Laurel,31.67,89.17
+MS,Mccomb,31.18,90.47
+MS,Meridian NAS,32.55,88.57
+MS,Meridian/Key,32.33,88.75
+MS,Natchez,31.62,91.25
+MS,Oxford,34.39,89.54
+MS,Tupelo,34.27,88.77
+MO,Columbia,38.82,92.22
+MO,Cp Girardeau,37.23,89.58
+MO,Ft Leonard,37.75,92.13
+MO,Jefferson City,38.60,92.17
+MO,Joplin,37.17,94.50
+MO,Kansas City,39.32,94.72
+MO,Kansas City,39.12,94.60
+MO,Kirksville,40.10,92.55
+MO,Monett,37.33,94.35
+MO,Muskogee,35.66,95.36
+MO,Poplar Bluff,36.77,90.47
+MO,Richards-Geb,38.85,94.55
+MO,Spickard,40.25,93.72
+MO,Springfield,37.23,93.38
+MO,St Joseph,40.28,95.53
+MO,St Louis,38.75,90.37
+MO,StLouis/Spirit,38.65,90.63
+MO,Vichy/Rolla,38.13,91.77
+MO,West Plains,37.22,92.42
+MO,West Plains,36.88,91.90
+MO,Whiteman AFB,38.73,93.55
+MT,Billings,45.80,108.53
+MT,Bozeman,45.78,111.15
+MT,Broadus,45.67,105.67
+MT,Butte,45.95,112.50
+MT,Cut Bank,48.60,112.37
+MT,Dillon,45.25,112.55
+MT,Drummond,46.67,113.15
+MT,Glasgow,48.22,106.62
+MT,Glendive,47.13,104.80
+MT,Great Falls,47.48,111.37
+MT,Harlowton,46.43,109.83
+MT,Havre,48.55,109.77
+MT,Helena,46.60,112.00
+MT,Jordan,47.33,106.93
+MT,Kalispell,48.30,114.27
+MT,Lewiston,47.05,109.45
+MT,Livingston,45.70,110.43
+MT,Malmstrom,47.50,111.18
+MT,Miles City,46.43,105.87
+MT,Missoula,46.92,114.08
+MT,Monida,44.57,112.32
+MT,Sidney,47.72,104.18
+MT,Thompson Fal,47.60,115.37
+MT,W Yellowston,44.65,111.10
+MT,W Yellowston,44.68,111.12
+MT,Wolf Point,48.10,105.58
+NE,Ainsworth,42.58,99.98
+NE,Alliance,42.05,102.80
+NE,Beatrice,40.32,96.75
+NE,Broken Bow,41.43,99.65
+NE,Burwell,41.78,99.15
+NE,Chadron,42.83,103.08
+NE,Columbus,41.45,97.35
+NE,Cozad,40.87,100.00
+NE,Falls City,40.07,95.58
+NE,Grand Island,40.97,98.32
+NE,Hastings,40.60,98.43
+NE,Imperial,40.33,101.39
+NE,Imperial,40.53,101.63
+NE,Kearney,40.73,99.00
+NE,Lincoln Muni,40.85,96.75
+NE,Mccook,40.22,100.58
+NE,Mullen,42.05,101.05
+NE,Norfolk,41.98,97.43
+NE,North Omaha,41.37,96.02
+NE,North Platte,41.13,100.68
+NE,O'neill,42.47,98.68
+NE,Offutt AFB,41.12,95.92
+NE,Omaha/Eppley,41.30,95.90
+NE,Ord/Sharp,41.62,98.95
+NE,Scottsbluff,41.87,103.60
+NE,Sidney Muni,41.10,102.98
+NE,Valentine,42.87,100.55
+NV,Austin,39.83,117.13
+NV,Austin,39.50,117.08
+NV,Battle Mtn,40.62,116.87
+NV,Caliente,37.62,114.52
+NV,Elko,40.83,115.78
+NV,Ely/Yelland,39.28,114.85
+NV,Eureka,39.50,115.97
+NV,Fallon NAS,39.42,118.70
+NV,Hawthorne,38.55,118.63
+NV,Ind Sprng Rn,36.53,115.57
+NV,Ind Sprng Rn,36.57,115.67
+NV,Las Vegas,36.08,115.17
+NV,Lovelock,40.10,118.92
+NV,Mercury,36.62,116.02
+NV,Nellis AFB,36.23,115.03
+NV,Owyhee,42.58,116.17
+NV,Reno,39.50,119.78
+NV,Tonopah,38.07,117.08
+NV,Wildhorse,41.33,116.25
+NV,Winnemucca,40.90,117.80
+NV,Yucca Flat,37.58,116.08
+NH,Berlin,44.58,71.18
+NH,Concord,43.20,71.50
+NH,Jaffrey,42.80,72.00
+NH,Keene,42.90,72.27
+NH,Laconia,43.57,71.43
+NH,Lebanon,43.63,72.30
+NH,Manchester,42.93,71.43
+NH,Mt Washingtn,44.27,71.30
+NH,Nashua,42.78,71.52
+NH,Pease AFB,43.08,70.82
+NH,Wolfeboro,44.00,71.38
+NJ,Atlantic Cty,39.45,74.57
+NJ,Barnegat Ls,40.28,74.28
+NJ,Fairfield,40.87,74.28
+NJ,Lakehurst,40.03,74.35
+NJ,Mcguire AFB,40.02,74.60
+NJ,Millville,39.37,75.07
+NJ,Morristown,40.80,74.42
+NJ,Newark Intl,40.70,74.17
+NJ,Teterboro,40.85,74.05
+NJ,Trenton,40.28,74.82
+NM,Albuquerque,35.05,106.60
+NM,Cannon,34.38,103.32
+NM,Carlsbad,32.33,104.27
+NM,Clayton Arpt,36.45,103.15
+NM,Corona,34.10,105.68
+NM,Cuba Awrs,36.02,106.95
+NM,Deming,32.25,107.70
+NM,Farmington,36.75,108.23
+NM,Gallup/Clark,35.52,108.78
+NM,Grants,35.17,107.90
+NM,Hobbs,32.68,103.20
+NM,Holloman AFB,32.85,106.10
+NM,Las Cruces,32.30,106.77
+NM,Las Vegas,35.65,105.15
+NM,Los Alamos,35.88,106.28
+NM,Moriarity,34.98,106.05
+NM,Northrup Str,32.90,106.40
+NM,Raton,36.74,104.50
+NM,Roswell,33.30,104.53
+NM,Santa Fe,35.62,106.08
+NM,Silver City,32.63,108.17
+NM,Socorro,34.07,106.90
+NM,Taos,36.42,105.57
+NM,Truth Or Con,33.23,107.27
+NM,Tucumcari,35.18,103.60
+NM,White Sands,32.63,106.40
+NY,Albany NY,42.75,73.80
+NY,Ambrose,40.75,74.37
+NY,Binghamton,42.22,75.98
+NY,Buffalo,42.93,78.73
+NY,Dansville,42.97,78.20
+NY,Elmira,42.17,76.90
+NY,Farmingdale,40.73,73.43
+NY,Fort Drum,44.05,75.73
+NY,Glens Falls,43.35,73.62
+NY,Griffiss AFB,43.23,75.40
+NY,Islip,40.78,73.10
+NY,Ithaca,42.48,76.47
+NY,Jamestown,42.15,79.25
+NY,Massena,44.93,74.85
+NY,Monticello,41.70,74.80
+NY,New York,40.77,73.98
+NY,New York/JFK,40.65,73.78
+NY,New York/LGA,40.77,73.90
+NY,Newburgh,41.50,74.10
+NY,Niagara Fall,43.10,78.95
+NY,Ogdensburg,44.68,75.40
+NY,Oneonta,42.87,75.12
+NY,Plattsburgh,44.65,73.47
+NY,Poughkeepsie,41.63,73.88
+NY,Rochester,43.12,77.67
+NY,Rochester,43.12,77.67
+NY,Saranac Lake,44.38,74.20
+NY,Schenectady,42.85,73.93
+NY,Syracuse,43.12,76.12
+NY,Utica,43.15,75.38
+NY,Watertown,44.00,76.02
+NY,Westhampton,40.85,72.63
+NY,White Plains,41.07,73.72
+NC,Asheville,35.43,82.55
+NC,Cape Hatteras,35.27,75.55
+NC,Charlotte,35.22,80.93
+NC,Cherry Point,34.90,76.88
+NC,Dare Co Gr,36.13,76.50
+NC,Diamond Shoals,35.25,75.50
+NC,Elizabeth,36.27,76.18
+NC,Fayetteville,35.00,78.88
+NC,Fort Bragg,35.13,78.93
+NC,Greensboro,36.08,79.95
+NC,Hickory,35.75,81.38
+NC,Hot Springs,35.90,82.82
+NC,Jacksonville NC,34.82,77.62
+NC,Kinston,35.32,77.63
+NC,Camp Mackall,35.03,79.50
+NC,Manteo,35.92,75.68
+NC,New Bern,35.08,77.05
+NC,New River,34.70,77.43
+NC,Pope AFB,35.17,79.02
+NC,Raleigh,35.87,78.78
+NC,Durham,35.87,78.78
+NC,Rocky Mt,35.85,77.88
+NC,Seymour-Johnson,35.33,77.97
+NC,Southern Pines,35.24,79.39
+NC,Wilmington,34.27,77.92
+NC,Winston-Salem,36.13,80.23
+ND,Bismarck,46.77,100.75
+ND,Devil's Lake,48.12,98.90
+ND,Dickenson,46.78,102.80
+ND,Fargo,46.90,96.80
+ND,Grand Forks,47.95,97.18
+ND,Jamestown,46.92,98.68
+ND,Lidgerwood,46.10,97.15
+ND,Minot,48.27,101.28
+ND,Roseglen,47.75,101.83
+ND,Williston,48.18,103.63
+OH,Athens,39.21,82.23
+OH,Albany OH,39.21,82.23
+OH,Canton,40.92,81.43
+OH,Cincinnati,39.05,84.67
+OH,Cleveland,41.52,81.68
+OH,Columbus,40.00,82.88
+OH,Columbus Osu,40.08,83.07
+OH,Dayton,39.90,84.20
+OH,Findlay,41.02,83.67
+OH,Mansfield,40.82,82.52
+OH,Rickenbacker,39.82,82.93
+OH,Toledo,41.60,83.80
+OH,Willoughby,41.63,81.40
+OH,Wright-Patterson AFB,39.83,84.05
+OH,Youngstown,41.27,80.67
+OH,Zanesville,39.95,81.90
+OK,Altus AFB,34.67,99.27
+OK,Ardmore,34.30,97.02
+OK,Bartlesville,36.75,96.00
+OK,Clinton,35.35,99.20
+OK,Enid,36.38,97.80
+OK,Fort Sill,34.65,98.40
+OK,Gage,36.30,99.77
+OK,Hobart,35.00,99.05
+OK,Lawton,34.57,98.42
+OK,Mcalester,34.88,95.78
+OK,Norman,35.23,97.47
+OK,Oklahoma Cty,35.40,97.60
+OK,Oklahoma Cty,35.53,97.65
+OK,Page,34.68,94.62
+OK,Ponca City,36.73,97.10
+OK,Stillwater,36.16,97.09
+OK,Tinker AFB,35.42,97.38
+OK,Tulsa,36.20,95.90
+OK,Vance AFB,36.33,97.92
+OR,Astoria,46.15,123.88
+OR,Aurora,45.25,122.75
+OR,Baker,44.83,117.82
+OR,Brookings,42.08,124.47
+OR,Burns Arpt,43.60,118.95
+OR,Cape Blanco,43.38,124.95
+OR,Cascade,45.68,121.88
+OR,Corvallis,44.50,123.28
+OR,Eugene,44.12,123.22
+OR,Hillsboro,45.53,122.95
+OR,Klamath Fall,42.15,121.73
+OR,La Grande,45.28,118.00
+OR,Lake View,42.18,120.35
+OR,Meacham,45.50,118.40
+OR,Medford,42.37,122.87
+OR,Newport,44.63,124.05
+OR,North Bend,43.42,124.25
+OR,Ontario,44.02,117.02
+OR,Pendleton,45.68,118.85
+OR,Portland,45.60,122.60
+OR,Redmond,44.27,121.15
+OR,Roseburg,43.23,123.37
+OR,Salem,44.92,123.00
+OR,Sexton,42.62,123.37
+OR,The Dalles,45.62,121.15
+OR,Troutdale,45.55,122.40
+PA,Allentown,40.65,75.43
+PA,Altoona,40.30,78.32
+PA,Beaver Falls,40.75,80.33
+PA,Blairsville,40.27,79.09
+PA,Bradford,41.80,78.63
+PA,Dubois,41.18,78.90
+PA,Erie,42.08,80.18
+PA,Franklin,41.38,79.87
+PA,Harrisburg,40.22,76.85
+PA,Harrisburg,40.37,77.42
+PA,Johnstown,40.32,78.83
+PA,Lancaster,40.13,76.30
+PA,Latrobe,40.28,79.40
+PA,Middletown,40.20,76.77
+PA,Muir,40.43,76.57
+PA,Nth Philadel,40.08,75.02
+PA,Philadelphia,39.88,75.25
+PA,Philipsburg,41.47,78.13
+PA,Pittsburgh,40.35,79.93
+PA,Pittsburgh,40.50,80.22
+PA,Reading,40.38,75.97
+PA,Site R,39.73,77.43
+PA,State Colleg,40.85,77.83
+PA,Wilkes-Barre,41.33,75.73
+PA,Williamsport,41.25,76.92
+PA,Willow Grove,40.20,75.15
+RI,Block Island,41.17,71.58
+RI,Nth Kingston,41.60,71.42
+RI,Providence,41.73,71.43
+RI,Quonset Pt NAS,41.36,71.25
+SC,Anderson,34.50,82.72
+SC,Beaufort Mca,32.48,80.72
+SC,Charleston,32.90,80.03
+SC,Columbia,33.95,81.12
+SC,Florence,34.18,79.72
+SC,Greenville,34.85,82.35
+SC,Greenville,34.90,82.22
+SC,Mcentire,33.92,80.80
+SC,Myrtle Beach,33.68,78.93
+SC,Nth Myrtle B,33.82,78.72
+SC,Shaw AFB,33.97,80.47
+SC,Spartanburg,34.92,81.96
+SD,Aberdeen,45.45,98.43
+SD,Brookings,44.30,96.80
+SD,Chamberlain,43.80,99.32
+SD,Chamberlain,43.75,99.32
+SD,Custer,43.77,103.60
+SD,Ellsworth Af,44.15,103.10
+SD,Huron,44.38,98.22
+SD,Lemmon,45.93,102.17
+SD,Mitchell,43.77,98.03
+SD,Mobridge,45.53,100.43
+SD,Philip,44.05,101.60
+SD,Philip,44.05,101.60
+SD,Pierre,44.38,100.28
+SD,Rapid City,44.05,103.07
+SD,Redig,45.16,103.32
+SD,Sioux Falls,43.58,96.73
+SD,Watertown,44.92,97.15
+SD,Yankton,42.92,97.38
+TN,Bristol,36.48,82.40
+TN,Chattanooga,35.03,85.20
+TN,Clarksville,36.62,87.42
+TN,Crossville,35.95,85.08
+TN,Dyersburg,36.02,89.40
+TN,Jackson,35.60,88.92
+TN,Knoxville,35.82,83.98
+TN,Memphis Intl,35.05,90.00
+TN,Memphis NAS,35.35,89.87
+TN,Monteagle,35.15,85.51
+TN,Nashville,36.12,86.68
+TN,Smyrna,36.00,86.50
+TX,Abilene,32.42,99.68
+TX,Alice,27.73,98.03
+TX,Amarillo,35.23,101.70
+TX,Austin,30.30,97.70
+TX,Bergstrom Af,30.20,97.68
+TX,Big Sky,32.39,101.48
+TX,Big Spring,32.30,101.45
+TX,Brownsville,25.90,97.43
+TX,Brownwood,31.79,98.96
+TX,Carswell AFB,32.78,97.43
+TX,Chase NAS,28.37,97.67
+TX,Childress,34.43,100.28
+TX,College Stn,30.58,96.37
+TX,Corpus Chrst,27.77,97.50
+TX,Corpus Chrst,27.70,97.28
+TX,Cotulla,28.45,99.22
+TX,D.w. Hooks,30.07,95.55
+TX,Dalhart,36.02,102.55
+TX,Dallas,32.85,96.85
+TX,Del Rio,29.37,100.92
+TX,Dyess AFB,32.43,99.85
+TX,El Paso,31.80,106.40
+TX,Ellington Af,29.62,95.17
+TX,Fort Worth,32.82,97.35
+TX,Ft Hood,31.15,97.72
+TX,Galveston,29.27,94.87
+TX,Gray AFB,31.07,97.83
+TX,Greenville,33.07,96.07
+TX,Guadalupe Ps,31.83,104.80
+TX,Harlingen,26.23,97.67
+TX,Hondo,29.35,99.17
+TX,Houston,29.97,95.35
+TX,Junction,30.50,99.77
+TX,Kelly AFB,29.38,98.58
+TX,Kerrville,29.98,99.08
+TX,Killeen,31.08,97.68
+TX,Kingsville,27.50,97.82
+TX,Laredo Intl,27.53,99.47
+TX,Laughlin AFB,29.37,100.78
+TX,Longview,32.38,94.72
+TX,Lubbock,33.65,101.82
+TX,Lufkin,31.23,94.75
+TX,Marfa,30.37,104.02
+TX,Mcallen,26.18,98.23
+TX,Midland,31.95,102.18
+TX,Mineral Wlls,32.78,98.07
+TX,Palacios,28.72,96.25
+TX,Paris,33.63,95.45
+TX,Plainview,34.17,101.71
+TX,Port Arthur,30.58,94.02
+TX,Randolph AFB,29.53,98.28
+TX,Reese AFB,33.60,102.05
+TX,Rockport,28.08,97.03
+TX,San Angelo,31.37,100.50
+TX,San Antonio,29.53,98.47
+TX,San Antonio,29.33,98.47
+TX,Sanderson,30.17,102.42
+TX,Sherman-Denison,33.72,96.67
+TX,South Brazos,28.03,95.87
+TX,Stephenville,32.22,98.18
+TX,Temple,31.15,97.42
+TX,Tyler,32.37,95.40
+TX,Victoria,28.85,96.92
+TX,Waco-Madison,31.62,97.22
+TX,Wichita Flls,33.98,98.50
+TX,Wink,31.78,103.20
+UT,Blanding,38.03,109.78
+UT,Bullfrog Mar,37.50,110.70
+UT,Cedar City,37.70,113.10
+UT,Delta,39.33,112.58
+UT,Dugway Prvgr,40.20,112.93
+UT,Eagle Range,41.05,113.07
+UT,Green River,39.00,110.15
+UT,Hanksville,38.37,110.72
+UT,Hill AFB,41.12,111.97
+UT,Logan,41.78,111.85
+UT,Milford,38.72,113.03
+UT,Moab,38.77,109.75
+UT,Ogden,41.18,112.02
+UT,Price,39.62,110.75
+UT,Provo,40.22,111.72
+UT,Roosevelt,40.50,110.63
+UT,Saint George,37.08,113.60
+UT,Salt Lake City,40.78,111.97
+UT,Tooele,40.17,112.20
+UT,Vernal,40.45,109.52
+UT,Wendover,41.22,114.05
+VT,Burlington,44.47,73.15
+VT,Montpelier,44.20,72.57
+VT,Newport,45.55,72.33
+VT,Rutland,43.53,73.95
+VT,St Johnsbury,44.42,72.02
+VT,Wilmington,42.88,72.88
+VA,Charlottesville,38.13,78.45
+VA,Chesapeake,37.50,76.20
+VA,Danville,36.57,79.33
+VA,Fort Belvoir,38.72,77.18
+VA,Fort Eustis,37.13,76.62
+VA,Hot Springs,37.95,79.82
+VA,Langley AFB,37.08,76.37
+VA,Lynchburg,37.33,79.20
+VA,Newport News,37.13,76.50
+VA,Norfolk,36.93,76.28
+VA,Oceana NAS,36.82,76.03
+VA,Quantico,38.50,77.30
+VA,Richmond,37.50,77.33
+VA,Roanoke,37.32,79.97
+VA,Staunton,38.27,78.85
+VA,Volens,36.95,78.98
+VA,Wallops Station,37.85,75.48
+WA,Bellingham,48.80,122.53
+WA,Bremerton,47.48,122.77
+WA,Burlington,48.50,122.33
+WA,Colville,48.88,118.47
+WA,Ephrata,47.32,119.52
+WA,Everet,47.92,122.28
+WA,Fairchild,47.62,117.65
+WA,Fort Lewis,47.08,122.58
+WA,Hanford,46.57,119.60
+WA,Hoquiam,46.97,123.97
+WA,Mcchord AFB,47.15,122.48
+WA,Moses Lake,47.20,119.32
+WA,Oak Harbor,48.25,122.68
+WA,Olympia,46.97,122.90
+WA,Omak,48.42,119.53
+WA,Pasco,46.27,119.12
+WA,Port Angeles,48.12,123.50
+WA,Pullman,46.75,117.12
+WA,Quillayute,47.95,124.55
+WA,Renton,47.50,122.22
+WA,Seattle,47.45,122.30
+WA,Shelton,47.25,123.15
+WA,Spokane,47.63,117.53
+WA,Stampede Pass,47.28,121.33
+WA,Tacoma,47.27,122.58
+WA,Toledo,46.48,122.80
+WA,Walla Walla,46.10,118.28
+WA,Wenatchee,47.40,120.20
+WA,Whidbey Island,48.35,122.65
+WA,Yakima,46.57,120.53
+WV,Beckley,37.78,81.12
+WV,Bluefield,37.30,81.22
+WV,Charleston,38.37,81.60
+WV,Clarksburg,39.28,80.23
+WV,Elkins,38.88,79.85
+WV,Huntington,38.37,82.55
+WV,Lewisburg,37.87,80.40
+WV,Martinsburg,39.40,77.98
+WV,Morgantown,39.65,79.92
+WV,Parkersburg,39.35,81.43
+WV,Wheeling,40.18,80.65
+WV,White Sulpher Springs,37.46,80.20
+WI,Appleton,44.25,88.52
+WI,Eau Claire,44.87,91.48
+WI,Green Bay,44.48,88.13
+WI,Janesville,42.62,89.03
+WI,La Crosse,43.87,91.25
+WI,Lone Rock,43.20,90.18
+WI,Madison,43.13,89.33
+WI,Manitowac,44.13,87.67
+WI,Milwaukee,42.95,87.90
+WI,Mosinee,44.78,89.67
+WI,Neenah,44.22,88.53
+WI,Oshkosh,44.00,88.57
+WI,Rhinelander,45.63,89.45
+WI,Rice Lake,45.48,91.72
+WI,Volk Fld,43.93,90.27
+WI,Wausau,44.92,89.62
+WY,Big Piney,42.57,110.10
+WY,Casper,42.92,106.47
+WY,Cheyenne,41.15,104.82
+WY,Cody,44.52,109.02
+WY,Douglas,42.75,105.38
+WY,Evanston,41.33,111.00
+WY,Gillette,44.35,105.53
+WY,Jackson,43.60,110.73
+WY,Lander,42.82,108.73
+WY,Laramie,41.32,105.68
+WY,Moorcroft,44.35,104.81
+WY,Rawlins,41.80,107.20
+WY,Riverton,43.05,108.45
+WY,Rock Springs,41.60,109.07
+WY,Sheridan,44.77,106.97
+WY,Worland,43.97,107.97
+WY,Yellowstone,44.55,110.42

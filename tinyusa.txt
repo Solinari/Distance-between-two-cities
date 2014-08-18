@@ -1,0 +1,7 @@
+IL,Chicago,41.90,87.65
+FL,Miami,25.82,80.28
+NY,New York,40.77,73.98
+CA,San Francisco,37.62,122.38
+
+
+

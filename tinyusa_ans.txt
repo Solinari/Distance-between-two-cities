@@ -1,0 +1,30 @@
+File of city locations: tinyusa.txt
+
+City data loaded.
+
+First city: Chicago
+Second city: Miami
+Distance from Chicago, IL to Miami, FL: 1185.0 miles
+
+First city: Chicago
+Second city: New York
+Distance from Chicago, IL to New York, NY: 711.1 miles
+
+First city: Chicago
+Second city: San Francisco
+Distance from Chicago, IL to San Francisco, CA: 1851.2 miles
+
+First city: Miami
+Second city: New York
+Distance from Miami, FL to New York, NY: 1091.9 miles
+
+First city: Miami
+Second city: San Francisco
+Distance from Miami, FL to San Francisco, CA: 2575.3 miles
+
+First city: New York
+Second city: San Francisco
+Distance from New York, NY to San Francisco, CA: 2562.3 miles
+
+First city: 
+Bye.
